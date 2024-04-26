@@ -1,0 +1,26 @@
+#styleit {width:30em;background:white;;height:44em;border:2px outset #2C4800;overflow:hidden;z-index:9900;}
+#sit-ta {position:relative;height:99.5%;width:99.5%;font:18px serif;}
+#sit-hd {position:relative;overflow:hidden;width:100%;height:2em;}
+#sit-h {position:relative;-webkit-margin-before:.2em;-webkit-margin-after:.2em;text-indent:.5em;font:25px fantasy;color:#2C4800;}
+#xsit-button {position:absolute;top:.5em;right:.5em;font:20px fantasy;background:transparent;color:#2C4800;cursor:pointer;border:0;}
+#xsit-button:hover {color:red;}
+#sit-ws {position:relative;width:100%;height:36em;overflow:hidden;border-bottom:2px outset #2C4800;}
+#sit-bb {position:relative;width:100%;height:5em;overflow-x:hidden;overflow-y:scroll;}
+#sit-bb button {border-radius:.2em;}
+#sit-nvd {position:relative;margin-top:.5em;margin-left:.3em;}
+.sitnv-but {position:relative;border:0;font:16px serif;margin:.1em;width:5em;height:1.7em;opacity:.6;color:white;cursor:pointer;}
+.sitnv-but:hover {opacity:.8;}
+#sitln-button {background:green;}
+#sitrn-button {background:red;}
+#sitcn-button {background:blue;}
+#sit-opd {position:absolute;top:.5em;right:.3em;}
+.sitob-but {position:relative;margin:.1em;border:0;font:22px serif;cursor:pointer;color:white;opacity:.5;}
+.sitob-but:hover {opacity:.8;}
+#sitms-button {background:#FF6A00;}
+#sitps-button {background:#009A8C;}
+#sitfl-button {border:0;background:#FF6A00;color:white;font:30px fantasy;border-radius:100%;cursor:pointer;opacity:.5;z-index:100;}
+#sitfl-button:hover {opacity:.9;}
+.scf-but {position:absolute;top:0;right:.2em;border:0;cursor:pointer;}
+#sit-bcd {position:relative;margin-top:.3em;margin-left:.3em;}
+.sbcd-but {position:relative;border:0;color:white;background:#480D00;font:19px serif;width:5em;height:1.6em;opacity:.6;cursor:pointer;}
+.sbcd-but:hover {opacity:.8;}
